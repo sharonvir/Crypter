@@ -1,26 +1,3 @@
-''' 
-Creator => Koorosh sanaei
-Telegram Channel => ultrasecurity
-YouTube => ultraamooz
-Telegram =>legol4sx
-Email => legol4sx@gmail.com
-
-Version => 1.0 , 2022
-DATE:6-02-2022
-TIME: 09:44 AM
-
-#MadeIniran
-      _____ _____    _____                  _             
-    |_   _|  __ \  / ____|                | |            
-      | | | |__) || |     _ __ _   _ _ __ | |_ ___  _ __ 
-      | | |  _  / | |    | '__| | | | '_ \| __/ _ \| '__|
-     _| |_| | \ \ | |____| |  | |_| | |_) | || (_) | |   
-    |_____|_|  \_(_)_____|_|   \__, | .__/ \__\___/|_|   
-                                __/ | |                  
-                               |___/|_|                  base64 | hex | rot13
-
-'''
-
 from colorama import Fore as color
 from time import sleep
 import os, sys
